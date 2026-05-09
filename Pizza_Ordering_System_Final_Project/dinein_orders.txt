@@ -1,0 +1,7 @@
+Name: de
+Age: 21
+Pizza: Chicken Tikka
+Quantity: 1
+Bill: 2000
+Order Type: dinein
+-----------------------------------

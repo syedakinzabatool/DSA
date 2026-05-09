@@ -1,0 +1,21 @@
+Name: kinza
+Age: 34
+Pizza: Chicken Fajita
+Quantity: 4
+Bill: 9600
+Order Type: takeaway
+-----------------------------------
+Name: kinza
+Age: 23
+Pizza: Arabic Ranch
+Quantity: 2
+Bill: 5000
+Order Type: takeaway
+-----------------------------------
+Name: Ahmad
+Age: 18
+Pizza: Arabic Ranch
+Quantity: 1
+Bill: 2500
+Order Type: takeaway
+-----------------------------------
